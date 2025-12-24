@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
- 🌸 <i>"Keep learning, keep building — every line of code makes you better."</i> 🌸
+ 🌸 <i>"Keep learning, keep building and every line of code makes you better."</i> 🌸
 </p>
 
 ---
@@ -48,6 +48,10 @@
 
 ## 🧰 Tools I Use
 
+---
+
+## 🧰 Tools I Use
+
 <p>
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
@@ -56,10 +60,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 
   <!-- GitHub -->
-  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 
   <!-- Canva -->
-  <!-- <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40"/> -->
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40"/>
 </p>
 
 ---
