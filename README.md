@@ -36,13 +36,30 @@
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">🛠 Languages </h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+</p>
+---
+
+## 🧰 Tools I Use
+
+<p>
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+  <!-- GitHub -->
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> -->
+
+  <!-- Canva -->
+  <!-- <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40"/> -->
 </p>
 
 ---
@@ -60,6 +77,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditi-0019&theme=tokyonight" />
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi-0019&bg_color=0b1220&color=ffbde6&line=da77f2&point=ffc6ff&area=true&area_color=9d4edd&hide_border=true">
+
+
+
 <p align="center">
 ✨ Thanks for visiting!  
 <br/>
