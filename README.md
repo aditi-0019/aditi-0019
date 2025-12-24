@@ -26,8 +26,8 @@
 <a href="https://linkedin.com/in/aditi-singh-ab0360320" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.codechef.com/users/aditisingh75" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+<!-- <a href="https://www.codechef.com/users/aditisingh75" target="_blank"> -->
+  <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /> -->
 </a>
 <a href="https://leetcode.com/aditisingh75" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
