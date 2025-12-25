@@ -44,11 +44,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
 </p>
----
 
-## 🧰 Tools I Use
 
----
 
 ## 🧰 Tools I Use
 
@@ -60,28 +57,60 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 
   <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> -->
+<!--- <a href="https://github.com/aditi-0019" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ff9ff3?style=for-the-badge&logo=github&logoColor=white" />
+</a> -->
+
+<a href="https://github.com/aditi-0019" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/d8b4fe" width="38" />
+</a>
+
+
 
   <!-- Canva -->
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40"/>
+  <!--<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40"/>
+</p>  -->
+<!--<a href="https://www.canva.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/canva/d8b4fe" width="30" />
+</a> -->
+<img src="https://img.icons8.com/color/96/000000/canva.png" width="40"/>
+
+
+
+<h3 align="left">📊 GitHub Stats</h3> 
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditi-0019&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditi-0019&show_icons=true&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-0019&layout=compact&theme=tokyonight" />
-</p>
+  <p align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditi-0019&show_icons=true&theme=tokyonight" />
+</p>  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditi-0019&theme=tokyonight" />
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi-0019&bg_color=0b1220&color=ffbde6&line=da77f2&point=ffc6ff&area=true&area_color=9d4edd&hide_border=true">
+<!--<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditi-0019&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+ <!--<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditi-0019&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aditi-0019&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi-0019&bg_color=0b1220&color=ffbde6&line=da77f2&point=ffc6ff&area=true&area_color=9d4edd&hide_border=true" />
+</p> -->
+
 
 
 
