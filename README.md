@@ -74,7 +74,7 @@
 <!--<a href="https://www.canva.com/" target="_blank">
   <img src="https://cdn.simpleicons.org/canva/d8b4fe" width="30" />
 </a> -->
-<img src="https://img.icons8.com/color/96/000000/canva.png" width="40"/>
+<!-- <img src="https://img.icons8.com/color/96/000000/canva.png" width="40"/> -->
 
 
 
