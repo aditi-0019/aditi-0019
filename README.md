@@ -107,7 +107,7 @@
   <img src="https://streak-stats.demolab.com?user=aditi-0019&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+ align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi-0019&bg_color=0b1220&color=ffbde6&line=da77f2&point=ffc6ff&area=true&area_color=9d4edd&hide_border=true" />
 </p> -->
 
@@ -120,4 +120,3 @@
 <i>Let’s build, learn & grow together 🚀</i>
 </p>
 
----
