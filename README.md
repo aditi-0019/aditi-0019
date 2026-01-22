@@ -84,9 +84,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditi-0019&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditi-0019&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
   <p align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditi-0019&show_icons=true&theme=tokyonight" />
 </p>  
